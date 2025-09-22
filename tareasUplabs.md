@@ -82,8 +82,8 @@
 
 ### Tareas
 
-⚠️ Subir a produccion `Poliza Chat` ()  
-⚠️ Esperando acceso a produccion (Oscar)  
+⚠️ Subir a produccion `Poliza Chat` (Ruddy)  
+⚠️ Esperando acceso a produccion (Oscar Cespedes)  
 ▶️ Induccion al Saas (Ver quien le va a hacer)  
 ▶️   
 
